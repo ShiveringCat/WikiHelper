@@ -1,0 +1,8 @@
+C:\Users\free\Documents\GitHub\WikiHelper\WikiHelper\obj\Debug\WikiHelper.csprojResolveAssemblyReference.cache
+C:\Users\free\Documents\GitHub\WikiHelper\WikiHelper\bin\Debug\WikiHelper.dll
+C:\Users\free\Documents\GitHub\WikiHelper\WikiHelper\bin\Debug\WikiHelper.pdb
+C:\Users\free\Documents\GitHub\WikiHelper\WikiHelper\obj\Debug\WikiHelper.dll
+C:\Users\free\Documents\GitHub\WikiHelper\WikiHelper\obj\Debug\WikiHelper.pdb
+C:\Users\free\Documents\GitHub\WikiHelper\WikiHelper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\free\Documents\GitHub\WikiHelper\WikiHelper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\free\Documents\GitHub\WikiHelper\WikiHelper\bin\Debug\HtmlAgilityPack.xml
